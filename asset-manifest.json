@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/one_piece_react/static/css/main.b3775411.css",
+    "main.js": "/one_piece_react/static/js/main.ce4230e5.js",
+    "static/media/vogue_merry.png": "/one_piece_react/static/media/vogue_merry.0b556f5fc29efc7cba99.png",
+    "static/media/one_piece_logo.png": "/one_piece_react/static/media/one_piece_logo.02ad7c9ba3d93469c11f.png",
+    "static/media/thousand_sunny.jpg": "/one_piece_react/static/media/thousand_sunny.33d31dd8e93bd1051935.jpg",
+    "index.html": "/one_piece_react/index.html",
+    "main.b3775411.css.map": "/one_piece_react/static/css/main.b3775411.css.map",
+    "main.ce4230e5.js.map": "/one_piece_react/static/js/main.ce4230e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3775411.css",
+    "static/js/main.ce4230e5.js"
+  ]
+}
