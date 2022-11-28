@@ -1,0 +1,82 @@
+[
+    {
+        "id": "dfb51b6a-bbb0-4574-9feb-e76898c48e69",
+        "name": "Monkey.D.Luffy",
+        "bounty": "฿ 3.000.000.000",
+        "nickname": "Luffy au Chapeau de Paille",
+        "picture": "https://www.laboutique-onepiece.com/_i/136023/p%7B1000%7D-64816/2915/19/10-choses-savoir-gear-5-luffy-one-piece-blog-7.jpeg"
+        
+    },
+    {
+        "id": "dba98b9a-15f8-4adf-8582-f12fa780eb12",
+        "name": "Roronoa Zoro",
+        "bounty": "฿ 1.111.000.000",
+        "nickname": "Le Chasseur de Pirates",
+        "picture": "https://images6.alphacoders.com/123/thumb-1920-1231474.png"
+        
+    },
+    {
+        "id": "c088a736-e5dd-4d73-a00e-9d683f053183",
+        "name": "Sanji",
+        "bounty": "฿ 1.032.000.000",
+        "nickname": "La Jambe Noire",
+        "picture": "https://wallpaperaccess.in/public/uploads/preview/sanji-wano-wallpaper-one-piece-wano-arc-aesthetic-p.jpg"
+        
+    },
+    {
+        "id": "fa80c814-c8e4-40b0-81c5-2aba41a5c8a2",
+        "name": "Jinbe",
+        "bounty": "฿ 1.100.000.000",
+        "nickname": "Le paladin des mers",
+        "picture": "https://wallpaperaccess.in/public/uploads/preview/jinbe-wano-wallpaper-one-piece-wano-arc-jimbei-2.jpg"
+        
+    },
+    {
+        "id": "a4531713-d2fb-43f8-a9e7-9f5a571cfb5c",
+        "name": "Nico Robin",
+        "bounty": "฿ 930.000.000",
+        "nickname": "l'Enfant du Démon ",
+        "picture": "https://wallpaperaccess.in/public/uploads/preview/nico-robin-wano-wallpaper-one-piece-wano-arc-aesthetic-devil-child-w.jpg"
+        
+    },
+    {
+        "id": "db7328e1-2051-4cd6-ab7f-5fa6b1c5d4ad",
+        "name": "Franky",
+        "bounty": "฿ 394.000.000",
+        "nickname": "Franky Le Cyborg",
+        "picture": "https://wallpaperaccess.in/public/uploads/preview/franky-wano-wallpaper-one-piece-wano-arc-cyborg-u.jpg"
+        
+    },
+    {
+        "id": "a6276c20-10ed-4d64-aff8-c52b8dd43001",
+        "name": "Brook",
+        "bounty": "383.000.000",
+        "nickname": "Brook le Fredonneur",
+        "picture": "https://wallpaperaccess.in/public/uploads/preview/brook-wano-wallpaper-one-piece-wano-soul-king-aesthetic-t.jpg"
+        
+    },
+    {
+        "id": "5a7f1a5b-c84a-42c8-9cd5-61a8fd1c2ea9",
+        "name": "Nami",
+        "bounty": "฿ 366.000.000",
+        "nickname": "La Chatte Voleuse",
+        "picture": "https://wallpaperaccess.in/public/uploads/preview/nami-wano-wallpaper-one-piece-wano-arc-aesthetic-f.jpg"
+        
+    },
+    {
+        "id": "0b8e3893-9828-4460-8493-7746efd519ee",
+        "name": "Usopp",
+        "bounty": "฿ 500.000.000",
+        "nickname": "Dieu Usopp",
+        "picture": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2a4fd09-561a-4019-b2c9-6461fa3db151/den4vrs-543b5022-e8c9-4e3b-93f0-816a6098cf19.jpg/v1/fill/w_1191,h_671,q_70,strp/usopp_wano_by_albertobuzz98_den4vrs-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTIyIiwicGF0aCI6IlwvZlwvYzJhNGZkMDktNTYxYS00MDE5LWIyYzktNjQ2MWZhM2RiMTUxXC9kZW40dnJzLTU0M2I1MDIyLWU4YzktNGUzYi05M2YwLTgxNmE2MDk4Y2YxOS5qcGciLCJ3aWR0aCI6Ijw9MTYzNyJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.H8FXWwja_AI3bByp-ghOau8-u4OMc7I1JtXEWlji110"
+        
+    },
+    {
+        "id": "301e52ca-2081-4e8a-b8cc-cec2f80626be",
+        "name": "Tony Tony Chopper",
+        "bounty": "฿ 1000", 
+        "nickname": "Le Fana de Barbe à Papa",
+        "picture": "https://wallpaperaccess.in/public/uploads/preview/tony-tony-chopper-wano-wallpaper-one-piece-wano-arc-aesthetic-h.jpg"
+        
+    }
+]
