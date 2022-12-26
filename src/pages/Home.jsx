@@ -11,7 +11,7 @@ import Herobanner from "../components/Herobanner";
 
 const equipage = aboutData.mugi
 
-const Mugiwaras = () => {
+const Home = () => {
     return (
         <div className="home">
             <div className="home_banner">
@@ -32,4 +32,4 @@ const Mugiwaras = () => {
     )
 }
 
-export default Mugiwaras
+export default Home

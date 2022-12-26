@@ -1,10 +1,12 @@
 import {Routes, Route } from "react-router-dom";
 
 import Navbar from "./components/Navbar"
+import Footer from "./components/Footer"
 
-import Mugiwaras from "./pages/Home";
+import Home from "./pages/Home";
 
 import "./main.css";
+import PageNotFound from "./pages/PageNotFound";
 
 
 
@@ -15,8 +17,10 @@ function App() {
       <div className="App">
         {<Navbar />}
         <Routes>
-          <Route path="/" element={<Mugiwaras />} />
+          <Route path="/" element={<Home />} />
+          <Route path="*" element={<PageNotFound />} />
         </Routes>
+        {<Footer />}
       </div>
     </div>
   )
